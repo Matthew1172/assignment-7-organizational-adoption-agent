@@ -1,0 +1,36 @@
+Week 9 | Assignment 7 - Organizational Adoption of Emerging Technologies Agent
+Governing question: 
+Even if adoption is strategically appropriate, can this organization actually absorb, govern, and sustain the proposed application?
+Expected effort: about 60-90 minutes. Stop at 90 minutes unless the instructor explicitly directs otherwise. Use ChatGPT/Codex and the supplied scaffold to reduce unnecessary mechanical work; preserve unresolved technical issues rather than turning the assignment into an open-ended development exercise. The quality of the evidence and judgment matters more than technical ornamentation or length.
+Purpose and Project Connection
+Create a specialist agent that evaluates organizational readiness and identifies what must change before a chosen emerging-technology application can be adopted successfully and responsibly.
+Professional Charge
+Build an agent that assumes the technology may be attractive and asks a different question: is this organization ready? Evaluate leadership, capabilities, resources, culture, workflow, governance, training, infrastructure, and change requirements. The agent should distinguish a weak technology decision from a good technology decision that the organization is not yet prepared to execute.
+Required Scaffold and Tool Workflow
+Use the frozen MASY1800 Common Emerging Technology Agent Scaffold ZIP distributed through Brightspace. Make a working copy, place that working copy in your own GitHub repository, and use ChatGPT with Codex as the supported course development path. Do not rebuild or silently alter the frozen common intake/output architecture. Your work is to specialize the supplied scaffold for this assignment, test it, diagnose weaknesses, revise it, and preserve the resulting repository/branch/commit and test evidence. The standard scaffold workflow does not require an OpenAI API key: it builds a ChatGPT-ready prompt packet, and you save the structured ChatGPT response back into your working copy for validation.
+What to Do
+1.  
+Define a structured readiness framework covering at least leadership/sponsorship, skills, workflow/process, infrastructure/data, resources/budget, governance/risk, culture/change, and operating ownership.
+2.  
+Require the agent to identify the current organizational strengths that support adoption and the gaps that could cause failure even if the technology works.
+3.  
+Require separate findings for technology/application fit and organizational readiness so that low readiness is not misreported as low technology maturity.
+4.  
+Require a prioritized set of readiness actions or conditions, including who would need to own the most important changes where that can reasonably be inferred from the supplied context.
+5.  
+Run the primary and context-contrast tests using the same technology/application in two materially different organizations or organizational profiles. The readiness conclusion should change when the capabilities and constraints change.
+6.  
+Revise the agent and identify one organizational factor for which the supplied information is insufficient and the agent should ask the user for additional evidence rather than inventing an answer.
+AI Leverage Hints
+Use AI to generate contrasting organizational profiles and test whether the agent is truly sensitive to readiness differences rather than repeating a generic change-management checklist.
+Ask AI to challenge whether each proposed readiness action addresses an observed gap or merely sounds like good management practice.
+Verify any material claim about regulatory obligations, required infrastructure, skills, or organizational practices against appropriate sources when those claims drive readiness judgment.
+Required Artifact
+Primary output: 
+A working Organizational Adoption Agent plus its Agent Record, readiness framework/profile, prioritized gaps and conditions, primary and contrast test record, one explicit request-for-more-information condition, and known limitations.
+Independent judgment: 
+Is this organization ready to implement and sustain the proposed application, what is the most consequential readiness gap, and what must change before management should proceed?
+AI/verification note: 
+Briefly state how AI materially helped, how consequential factual or methodological guidance was checked, and where you relied on original evidence rather than model memory or generated summaries.
+Team Handoff
+Bring the agent package, the readiness conclusion, the most important gap and action, one missing-information condition, and the organizational fields the final intake form must capture for this expert to work well.

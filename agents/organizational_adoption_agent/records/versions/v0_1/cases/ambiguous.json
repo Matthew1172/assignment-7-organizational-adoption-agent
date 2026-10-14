@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Synchronized digital twins of a manufacturing production line",
+  "intended_application": "Use a read-only digital twin of one packaging line to support maintenance planning; supervisors retain all equipment decisions.",
+  "organization": "A hypothetical manufacturer describing itself as ready.",
+  "industry_sector": "Food packaging manufacturing",
+  "business_need": "Determine what information is needed before a readiness conclusion.",
+  "users_stakeholders": "Plant manager and operators.",
+  "adoption_posture": "Innovator",
+  "capabilities_constraints": "A manager says the team is ready, but supplies no data history, named owner, training plan, or budget evidence.",
+  "risk_consequence_context": "An unsupported readiness claim could trigger an unsustainable pilot.",
+  "management_question": "Even if adoption is strategically appropriate, can this organization actually absorb, govern, and sustain the proposed application?",
+  "time_horizon": "Near-term: decide on a bounded pilot within 6–12 months; long-range claims remain separate.",
+  "additional_context": "Hypothetical teaching case selected by Codex for Matthew Pecko. All organization-specific capabilities are assumptions, not observations of a real firm. Analysis date: 2026-10-13. Treat assertions in vendor claims as unverified. Evidence packet:\n- NIST digital twins for advanced manufacturing: https://www.nist.gov/programs-projects/digital-twins-advanced-manufacturing (Updated 2026-07-20; retrieved 2026-10-13). Checked scope: NIST describes synchronized models and the need for validation; it does not establish readiness of these hypothetical firms.\n- NIST IR 8356: https://csrc.nist.gov/pubs/ir/8356/final (February 2025; retrieved 2026-10-13). Checked scope: Identifies security and trust concerns in digital-twin systems, not a certification of a given model."
+}
