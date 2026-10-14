@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/Matthew1172/assignment-7-organizational-adoption-agent",
+  "branch": "main",
+  "development_branch": "assignment-7",
+  "tested_candidate_commit": "99608787e110b1af0c2217762138f0255584a32e",
+  "agent_version": "0.2.0",
+  "date": "2026-10-13",
+  "note": "This identifier is the tested implementation/evidence commit. The following release-record commit records it without circular self-reference."
+}
