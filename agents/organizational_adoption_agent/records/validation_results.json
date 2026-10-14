@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-13",
+  "timezone": "America/New_York",
+  "cases_checked": 4,
+  "api_runs": 6,
+  "frozen_core": "FROZEN CORE INTACT",
+  "copied_helper_byte_identical": true,
+  "secret_scan": "No matching key material found in publishable text files",
+  "responses": [
+    {
+      "file": "agents/organizational_adoption_agent/responses/ambiguous_response.json",
+      "sha256": "25a2480ea557d60edb65150ddb980ee63261d3c9c5e10ffcda2b360ffd7d0176",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/contrast_1_response.json",
+      "sha256": "b573699f4b352cc54074ace3887c9dd058cc9b95d9105598a800789cd4026e0e",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/contrast_2_response.json",
+      "sha256": "12025ed1922140c75b2b0931cfc2269effcca0b4b150954181459c055280650c",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/organizational_adoption_agent_ambiguous_prompt_response_2026-10-13_21-00-29_533267-0400.json",
+      "sha256": "25a2480ea557d60edb65150ddb980ee63261d3c9c5e10ffcda2b360ffd7d0176",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/organizational_adoption_agent_contrast_1_prompt_response_2026-10-13_20-57-10_692992-0400.json",
+      "sha256": "4318c009c8f245c13382eaa9fda94d097392b81d81220dd3a5bd9fab4f168306",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/organizational_adoption_agent_contrast_1_prompt_response_2026-10-13_21-00-24_914893-0400.json",
+      "sha256": "b573699f4b352cc54074ace3887c9dd058cc9b95d9105598a800789cd4026e0e",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/organizational_adoption_agent_contrast_2_prompt_response_2026-10-13_21-00-28_146541-0400.json",
+      "sha256": "12025ed1922140c75b2b0931cfc2269effcca0b4b150954181459c055280650c",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/organizational_adoption_agent_primary_prompt_response_2026-10-13_20-57-04_378446-0400.json",
+      "sha256": "0c527cef12828a5e44bf873efedec86603cdbd2e238f27d3edd4b72666eb5f43",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/organizational_adoption_agent_primary_prompt_response_2026-10-13_21-00-23_514967-0400.json",
+      "sha256": "722cc430fd491c6b5cd5c91198652ed4864d135c434c1d206524114c5ab724d7",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/primary_response.json",
+      "sha256": "722cc430fd491c6b5cd5c91198652ed4864d135c434c1d206524114c5ab724d7",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/v0_1/contrast_1_response.json",
+      "sha256": "4318c009c8f245c13382eaa9fda94d097392b81d81220dd3a5bd9fab4f168306",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/v0_1/primary_response.json",
+      "sha256": "0c527cef12828a5e44bf873efedec86603cdbd2e238f27d3edd4b72666eb5f43",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/v0_2/ambiguous_response.json",
+      "sha256": "25a2480ea557d60edb65150ddb980ee63261d3c9c5e10ffcda2b360ffd7d0176",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/v0_2/contrast_1_response.json",
+      "sha256": "b573699f4b352cc54074ace3887c9dd058cc9b95d9105598a800789cd4026e0e",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/v0_2/contrast_2_response.json",
+      "sha256": "12025ed1922140c75b2b0931cfc2269effcca0b4b150954181459c055280650c",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    },
+    {
+      "file": "agents/organizational_adoption_agent/responses/v0_2/primary_response.json",
+      "sha256": "722cc430fd491c6b5cd5c91198652ed4864d135c434c1d206524114c5ab724d7",
+      "basic_validator": "VALIDATION PASSED",
+      "full_schema": "PASSED"
+    }
+  ]
+}

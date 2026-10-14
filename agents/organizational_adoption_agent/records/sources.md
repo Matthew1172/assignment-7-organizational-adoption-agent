@@ -4,3 +4,7 @@
 - NIST IR 8356: https://csrc.nist.gov/pubs/ir/8356/final (February 2025; retrieved 2026-10-13). Checked scope: Identifies security and trust concerns in digital-twin systems, not a certification of a given model.
 
 These pages were opened during preparation. Do not infer population adoption rates, profits, local permissions, or organizational facts from them. Hypothetical case assumptions are input evidence only. API-generated new sources require separate review.
+
+## Additional source review — 2026-10-13
+
+NIST sources support the general need for trustworthy models and attention to security, not the actual readiness of any hypothetical firm. No organizational audit or model validation was conducted.

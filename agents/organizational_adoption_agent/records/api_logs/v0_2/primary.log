@@ -1,0 +1,5 @@
+VALIDATION PASSED
+Saved OpenAI API response: /Users/renatapecko/NYU/Emerging Tech/assignment-7-organizational-adoption-agent/agents/organizational_adoption_agent/responses/organizational_adoption_agent_primary_prompt_response_2026-10-13_21-00-23_514967-0400.json
+Model: gpt-6.1-sol; response ID: resp_0ce1cca5eaf08fcb016aced42956a087d1b355b6f99628a4db
+Token usage: {"input_tokens": 12930, "input_tokens_details": {"cache_write_tokens": 1934, "cached_tokens": 4686}, "output_tokens": 1271, "output_tokens_details": {"reasoning_tokens": 179}, "total_tokens": 14201}
+This is an API run, not a ChatGPT UI run. Review sources and findings separately.
